@@ -5,23 +5,23 @@
   </a>
 </p>
 
-[Introduction](#introduction)
-[Features](#features)
-[Installation on Ubuntu](#installation)
-[Visual Studio Setup for Deno](#setup)
-[Hello World](#helloworld)
-[Running Hosted File](#runninghostedfile)
-[Deno vs Node.js](difference)
-[ Web API - fetch - Make HTTP Request](#makinghttprequest)
-[ Web API - Blob ](#webapiblob)
-[Read File](#readfile)
-[Write File](#writefile)
-[import/export](#importexport)
-[import map](#importmap)
-[serve](#serve)
-[listenAndServe](#listenAndServe)
-[Handling Request](#handlingRequest)
-[Routing](#routing)
+[Introduction](#introduction)\n
+[Features](#features)\n
+[Installation on Ubuntu](#installation)\n
+[Visual Studio Setup for Deno](#setup)\n
+[Hello World](#helloworld)\n
+[Running Hosted File](#runninghostedfile)\n
+[Deno vs Node.js](difference)\n
+[ Web API - fetch - Make HTTP Request](#makinghttprequest)\n
+[ Web API - Blob ](#webapiblob)\n
+[Read File](#readfile)\n
+[Write File](#writefile)\n
+[import/export](#importexport)\n
+[import map](#importmap)\n
+[serve](#serve)\n
+[listenAndServe](#listenAndServe)\n
+[Handling Request](#handlingRequest)\n
+[Routing](#routing)\n
 
 # Introduction
 - JavaScript, TypeScript and WebAssembly runtime with secure defaults
@@ -57,7 +57,7 @@ export PATH="$DENO_INSTALL/bin:$DENO_PATH"
 sudo snap install deno
 ```
 
-# Visula Studio Setup for Deno
+# Visual Studio Setup for Deno
 - Install extension named `deno` by denoland (useful for formatting et.cetera)
 - Append visual studio code `setting.json`
 ```json
