@@ -34,8 +34,8 @@
 - Server 🗄️ HTTP efficiently
 
 # Features 
-- Provides web platform functionality
-- adopts web plaform standards
+✔️ Provides web platform functionality
+✔️ adopts web plaform standards
 - Secure (No file,network, or environment access unless explicitly enabled)
 - Supports typescript
 - ships single executable
