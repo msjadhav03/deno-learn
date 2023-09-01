@@ -1,10 +1,10 @@
 # Deno
-![Screenshot](https://github.com/msjadhav03/deno-learn/blob/main/deno-looking-up.svg)
+![Screenshot](./deno-looking-up.svg)
 
 1. [Introduction](#introduction)
 2. [Features](#features)
 3. [Installation on Ubuntu](#installation)
-4. [VS Setup for Deno](#setup)
+4. [Visual Studio Setup for Deno](#setup)
 5. [Hello World](#helloworld)
 6. [Running Hosted File](#runninghostedfile)
 7. [Deno vs Node.js](difference)
