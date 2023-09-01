@@ -1,5 +1,5 @@
 # Deno
-![Screenshot](./deno-looking-up.svg)
+![Screenshot](https://raw.githubusercontent.com/msjadhav03/deno-learn/blob/main/deno-looking-up.svg)
 
 1. [Introduction](#introduction)
 2. [Features](#features)
