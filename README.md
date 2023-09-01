@@ -1,27 +1,28 @@
 # Deno
+
 <p>
   <a href="https://nodejs.org/">
     <img src="https://deno.com/runtime/deno-looking-up.svg?__frsh_c=e531494e25525bcc7dd9efdac7acd0ce0868d990" alt="Deno Logo" height="140">
   </a>
 </p>
 
-[Introduction](#introduction)\n
-[Features](#features)\n
-[Installation on Ubuntu](#installation)\n
-[Visual Studio Setup for Deno](#setup)\n
-[Hello World](#helloworld)\n
-[Running Hosted File](#runninghostedfile)\n
-[Deno vs Node.js](difference)\n
-[ Web API - fetch - Make HTTP Request](#makinghttprequest)\n
-[ Web API - Blob ](#webapiblob)\n
-[Read File](#readfile)\n
-[Write File](#writefile)\n
-[import/export](#importexport)\n
-[import map](#importmap)\n
-[serve](#serve)\n
-[listenAndServe](#listenAndServe)\n
-[Handling Request](#handlingRequest)\n
-[Routing](#routing)\n
+1. [Introduction](#introduction)
+2. [Features](#features)
+3. [Installation on Ubuntu](#installation)
+4. [Visual Studio Setup for Deno](#setup)
+5. [Hello World](#helloworld)
+6. [Running Hosted File](#runninghostedfile)
+7. [Deno vs Node.js](difference)
+8. [ Web API - fetch - Make HTTP Request](#makinghttprequest)
+9. [ Web API - Blob ](#webapiblob)
+10. [Read File](#readfile)
+11. [Write File](#writefile)
+12. [import/export](#importexport)
+13. [import map](#importmap)
+14. [serve](#serve)
+15. [listenAndServe](#listenAndServe)
+16. [Handling Request](#handlingRequest)
+17. [Routing](#routing)
 
 # Introduction
 - JavaScript, TypeScript and WebAssembly runtime with secure defaults
