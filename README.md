@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://nodejs.org/">
-    <img src="https://raw.githubusercontent.com/msjadhav03/deno-learn/blob/main/deno-looking-up.svg" alt="Deno Logo" height="140">
+    <img src="https://deno.com/runtime/deno-looking-up.svg?__frsh_c=e531494e25525bcc7dd9efdac7acd0ce0868d990" alt="Deno Logo" height="140">
   </a>
 </p>
 
@@ -25,7 +25,7 @@
 16. [Handling Request](#handlingRequest)
 17. [Routing](#routing)
 
-# ✔️ Introduction
+# Introduction
 - JavaScript, TypeScript and WebAssembly runtime with secure defaults
 - Built on V8, Rust and Tokio 
 - Aims to be productive and secure scripting environment for the modern programmer
@@ -34,7 +34,7 @@
 - Browser compatibility 🤘️
 - Server 🗄️ HTTP efficiently
 
-# ✔️ Features 
+# Features 
 - Provides web platform functionality
 - adopts web plaform standards
 - Secure (No file,network, or environment access unless explicitly enabled)
@@ -44,7 +44,7 @@
 - Standard Modules
 - Support for NPM modules
 
-# ✔️ Installation on ubuntu
+# Installation on ubuntu
 -  Download Deno
 ```JS
 curl -fsSL https://deno.land/x/install/install.sh | sh
