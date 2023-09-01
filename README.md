@@ -1,7 +1,5 @@
 # Deno
-![Screenshot]()
-
-<p align="center">
+<p>
   <a href="https://nodejs.org/">
     <img src="https://deno.com/runtime/deno-looking-up.svg?__frsh_c=e531494e25525bcc7dd9efdac7acd0ce0868d990" alt="Deno Logo" height="140">
   </a>
