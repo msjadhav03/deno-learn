@@ -1,5 +1,11 @@
 # Deno
-![Screenshot](https://raw.githubusercontent.com/msjadhav03/deno-learn/blob/main/deno-looking-up.svg)
+![Screenshot]()
+
+<p align="center">
+  <a href="https://nodejs.org/">
+    <img src="https://raw.githubusercontent.com/msjadhav03/deno-learn/blob/main/deno-looking-up.svg" alt="Deno Logo" height="140">
+  </a>
+</p>
 
 1. [Introduction](#introduction)
 2. [Features](#features)
@@ -19,16 +25,16 @@
 16. [Handling Request](#handlingRequest)
 17. [Routing](#routing)
 
-# Introduction
+# ✔️ Introduction
 - JavaScript, TypeScript and WebAssembly runtime with secure defaults
-- Built on V8, Rust and Tokio
+- Built on V8, Rust and Tokio 
 - Aims to be productive and secure scripting environment for the modern programmer
-- Ships single executable
-- Secure defaults
-- Browser compatibility
-- Server HTTP efficiently
+- Ships 🚢️ single executable 👩‍🔧️
+- Secure defaults 💪️
+- Browser compatibility 🤘️
+- Server 🗄️ HTTP efficiently
 
-# Features
+# ✔️ Features 
 - Provides web platform functionality
 - adopts web plaform standards
 - Secure (No file,network, or environment access unless explicitly enabled)
@@ -38,7 +44,7 @@
 - Standard Modules
 - Support for NPM modules
 
-# Installation on ubuntu
+# ✔️ Installation on ubuntu
 -  Download Deno
 ```JS
 curl -fsSL https://deno.land/x/install/install.sh | sh
@@ -53,7 +59,7 @@ export PATH="$DENO_INSTALL/bin:$DENO_PATH"
 sudo snap install deno
 ```
 
-# VS Setup for Deno
+# Visula Studio Setup for Deno
 - Install extension named `deno` by denoland (useful for formatting et.cetera)
 - Append visual studio code `setting.json`
 ```json
